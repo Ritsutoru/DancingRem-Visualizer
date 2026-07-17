@@ -1,0 +1,9 @@
+Required for install!
+
+======================================
+
+pip install Pillow    <= изображения и GIF
+pip install numpy    <= обработка массивов
+pip install PyAudioWPatch    <= работа со звуком
+
+======================================
