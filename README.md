@@ -7,7 +7,7 @@ This application is designed for real-time audio visualization. The character re
 
 
 <div align="center">
-  <img src="Resources/remDance.gif" width="400">
+  <img src="demo.gif" width="400">
 </div>
 
 
