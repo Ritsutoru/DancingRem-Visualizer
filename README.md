@@ -4,6 +4,7 @@
 
 ### About
 This application is designed for real-time audio visualization. The character reacts smoothly to the amplitude of the audio stream.
+<img src="demo.gif" width="400">
 
 ### How to control?
 Right-clicking the window opens the application menu. From there, you can:
